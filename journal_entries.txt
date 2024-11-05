@@ -1,0 +1,85 @@
+Date: 2024-11-03
+Content: Today was amazing! Got to spend time with my best friends, and we laughed so much.
+Sentiment: Positive
+Quote: "Believe you can and you're halfway there. – Theodore Roosevelt"
+
+Date: 2024-11-03
+Content: Feeling a bit overwhelmed with all the assignments. I wish I had more time.
+Sentiment: Negative
+Quote: "When everything feels like an uphill struggle, just think of the view from the top. – Unknown"
+
+Date: 2024-11-03
+Content: I aced my test! All the hard work paid off, and I’m so proud.
+Sentiment: Positive
+Quote: "Do what you can, with what you have, where you are. – Theodore Roosevelt"
+
+Date: 2024-11-03
+Content: Today was just… okay. Nothing special happened, but nothing went wrong either.
+Sentiment: Neutral
+Quote: "Everything has beauty, but not everyone sees it. – Confucius"
+
+Date: 2024-11-03
+Content: Feeling so lonely lately. It’s like no one really gets me.
+Sentiment: Negative
+Quote: "When everything feels like an uphill struggle, just think of the view from the top. – Unknown"
+
+Date: 2024-11-03
+Content: Had a fun day at the beach! The waves were perfect, and the sun was shining
+Sentiment: Positive
+Quote: "In a gentle way, you can shake the world. – Mahatma Gandhi"
+
+Date: 2024-11-03
+Content: Stressed out beyond belief. I don’t know how I’m going to get everything done.
+Sentiment: Negative
+Quote: "You are allowed to be both a masterpiece and a work in progress simultaneously. – Sophia Bush"
+
+Date: 2024-11-03
+Content: My dog curled up next to me while I read. It was such a peaceful moment.
+Sentiment: Positive
+Quote: "Success is not final, failure is not fatal: It is the courage to continue that counts. – Winston Churchill"
+
+Date: 2024-11-03
+Content: I got a compliment from a stranger today, and it made me smile.
+Sentiment: Positive
+Quote: "With the new day comes new strength and new thoughts. – Eleanor Roosevelt"
+
+Date: 2024-11-03
+Content: Failed my math quiz. I’m really disappointed in myself.
+Sentiment: Negative
+Quote: "Hard times may have held you down, but they will not last forever. Keep pushing forward. – Unknown"
+
+Date: 2024-11-03
+Content: Excited for tomorrow’s concert! Been looking forward to it for weeks.
+Sentiment: Positive
+Quote: "Happiness is not something ready made. It comes from your own actions. – Dalai Lama"
+
+Date: 2024-11-03
+Content: Spent the afternoon organizing my room. It feels a bit cleaner now, but nothing special.
+Sentiment: Neutral
+Quote: "Actions speak louder than words. – Proverb"
+
+Date: 2024-11-03
+Content: Went to the grocery store and picked up a few things I needed. Just another errand done.
+Sentiment: Neutral
+Quote: "The only constant in life is change. – Heraclitus"
+
+Date: 2024-11-03
+Content: Watched a couple of episodes of a show I started. It’s okay, nothing too exciting so far.
+Sentiment: Neutral
+Quote: "A wise man will make more opportunities than he finds. – Francis Bacon"
+
+Date: 2024-11-05
+Content: i hate hating myself
+Sentiment: Negative
+Quote: "You’ve survived 100% of your worst days. You’re stronger than you think. – Unknown"
+
+Date: 2024-11-05
+Content: i love not being very very happy
+Sentiment: Positive
+Quote: "In a gentle way, you can shake the world. – Mahatma Gandhi"
+
+Date: 2024-11-05
+Content: i love walking alone and being very lonely and not having any friends
+Sentiment: Negative
+Quote: "When everything feels like an uphill struggle, just think of the view from the top. – Unknown"
+
