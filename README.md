@@ -31,6 +31,6 @@ MainApp.java: Contains the main method to initiate the Smart Personal Journal
 
 MoodLog.java: Logs mood (sentiment) results to a separate file
 
-Quotes.java: Generates random motivational quotes
+Quotes.java: Generates a random motivational quote based on the detected mood 
 
 SentimentAnalyzer.java: Analyzes sentiment using OpenNLP
