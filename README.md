@@ -15,11 +15,11 @@ lib: Contains required OpenNLP JAR files
 
 models: Contains NLP model files used for sentiment analysis
   
-  en-pos-maxent.bin
+- en-pos-maxent.bin
   
-  en-sent.bin
+- en-sent.bin
   
-  en-token.bin
+- en-token.bin
 
 journal_entries.txt: Stores journal entries with date, sentiment, and motivational quote
 
