@@ -11,9 +11,13 @@ Features:
 
 Project Structure:
 
-lib: Contains required OpenNLP JAR files
+lib/
 
-models: Contains NLP model files used for sentiment analysis
+Contains required OpenNLP JAR files
+
+models/
+
+Contains NLP model files used for sentiment analysis, including:
   
 - en-pos-maxent.bin
   
