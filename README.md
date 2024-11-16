@@ -25,6 +25,7 @@ Contains NLP model files used for sentiment analysis, including:
   
 - en-token.bin
 
+
 journal_entries.txt: Stores journal entries with date, sentiment, and motivational quote
 
 mood_log.txt: Stores mood log with sentiment analysis results over time
