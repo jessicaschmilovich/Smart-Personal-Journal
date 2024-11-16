@@ -11,8 +11,7 @@ Features:
 
 Project Structure:
 
-lib/
-
+lib/  
 Contains required OpenNLP JAR files
 
 models/  
