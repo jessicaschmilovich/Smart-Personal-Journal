@@ -1,6 +1,6 @@
 # Smart-Personal-Journal
 
-The Smart Personal Journal is a Java-based application that allows users to create journal entries, analyzes the sentiment of their entries, provides motivational quotes, and logs the user's mood based on sentiment. This application leverages OpenNLP for natural language processing (NLP) to detect sentences and tokenize text for sentiment analysis.
+The Smart Personal Journal is a program in Java that allows users to create journal entries, analyzes the sentiment of their entries, provides motivational quotes, and logs the user's mood based on sentiment. This application leverages OpenNLP for natural language processing (NLP) to detect sentences and tokenize text for sentiment analysis.
 
 **Features:**
 
